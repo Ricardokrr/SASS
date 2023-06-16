@@ -1,0 +1,23 @@
+.footer h3 {
+  font-style: italic;
+  border: 3px solid grey; }
+
+.nav {
+  background-color: #00731a; }
+  .nav ul li {
+    list-style: none; }
+  .nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black; }
+    .nav a:hover {
+      color: grey; }
+
+h1, .footer h3 {
+  color: black;
+  font-size: 40px;
+  background-color: gainsboro;
+  text-align: center; }
+
+h1:hover, .footer h3:hover {
+  background-color: burlywood; }
